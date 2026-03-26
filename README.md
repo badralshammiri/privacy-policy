@@ -1,0 +1,1 @@
+This app does not collect any personal data. We use Google AdMob for advertisements, which may use device identifiers for ad personalization and analytics. For more information, please refer to Google's privacy policy.
